@@ -23,7 +23,7 @@ app.add_middleware(
 
 @app.get("/")
 def root():
-    return {"message": "FoodForensics API is running"}
+    return {"message": "Mirova API is running"}
 
 @app.post("/analyze")
 async def analyze(file: UploadFile = File(...)):

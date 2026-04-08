@@ -253,23 +253,23 @@ export default function VerifyLens() {
           style={{
             display: 'flex',
             alignItems: 'center',
-            gap: '12px',
+            gap: '09px',
                   }}
                 >
           <img
             src="/fox-logo.png"
-            alt="VerifyLens Fox"
-            width={60}
-            height={60}
+            alt="Fox"
+            width={70}
+            height={70}
           />
           <div
             style={{
               fontFamily: 'var(--font-big-shoulders)',
-              fontWeight: 800,
-              fontSize: '1.1rem',
+              fontWeight: 900,
+              fontSize: '1.7rem',
               color: '#24003D',
               textTransform: 'uppercase',
-              letterSpacing: '0.02em',
+              letterSpacing: '0.10em',
             }}
           >
             Mirova
@@ -280,7 +280,7 @@ export default function VerifyLens() {
         <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
           {/* GitHub Button */}
           <button
-            onClick={() => window.open('https://github.com', '_blank')}
+            onClick={() => window.open('https://github.com/DishantBhere/Mirova', '_blank')}
             className="github-pulse"
             style={{
               background: '#FFFFFF',
