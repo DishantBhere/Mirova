@@ -12,7 +12,7 @@ from analyzer import (
 
 app = FastAPI()
 
-# ✅ CORS (React ke liye zaroori)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],

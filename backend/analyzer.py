@@ -1,5 +1,5 @@
 """
-FoodForensics - Core Analysis Module
+Mirova
 Detects AI-generated edits in food photography through multiple forensic techniques.
 """
 
