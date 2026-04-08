@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🔍 Mirova
+# 🦊 Mirova
 
 ### AI-Powered Image Authenticity Detection
 
